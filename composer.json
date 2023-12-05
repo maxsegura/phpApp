@@ -1,0 +1,22 @@
+{
+    "name": "alumne/php_laravel",
+    "description": "Bla Bla",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "./"
+        ],
+        "files": [
+            "framework/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "MaxSegura",
+            "email": "msegura@iesebre.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
